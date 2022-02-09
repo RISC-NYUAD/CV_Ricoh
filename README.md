@@ -1,4 +1,4 @@
-# CV_RIcoh
+# CV_Ricoh
 Package for decoding H264 stream to OpenCV. 
 
 1) sudo apt install -y libavcodec-dev libavformat-dev libavdevice-dev libavfilter-dev.
