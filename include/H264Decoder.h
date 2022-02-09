@@ -1,7 +1,3 @@
-//
-// Created by curi on 17-6-28.
-//
-
 #ifndef OPENCVIDEO_MASTER_H264DECODER_H
 #define OPENCVIDEO_MASTER_H264DECODER_H
 
