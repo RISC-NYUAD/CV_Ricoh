@@ -1,3 +1,7 @@
+//
+// Created by curi on 17-6-28.
+//
+
 #include "H264Decoder.h"
 
 void H264Decoder::init() {
